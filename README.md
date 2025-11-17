@@ -51,7 +51,7 @@ Aich, A., Hewage, S., Murshed, M. (2025). Copula Based Fusion of Clinical and Ge
 ## 📊 Citation
 If you use this code or method in your own work, please cite:
 
-@article{Aich2025A2CopulaDiabetes,
+@article{Aich2025CopulaFusionGenomicML,
   title   = {Copula Based Fusion of Clinical and Genomic Machine Learning Risk Scores for Breast Cancer Risk Stratification},
   author  = {Aich, Agnideep and Hewage, Sameera and Murshed, Md Monzur},
   journal = {},
